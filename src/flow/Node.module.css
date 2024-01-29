@@ -1,0 +1,12 @@
+.node {
+  background-color: cadetblue;
+  border-radius: 1rem;
+  padding: 0.5rem 2rem;
+}
+.btn-container {
+  display: flex;
+  gap: 1rem;
+}
+.paragraph {
+  text-align: center;
+}
